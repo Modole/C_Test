@@ -1,0 +1,4 @@
+﻿  main.c
+D:\C_test\20231028_xuexi_2\20231028_xuexi_2\main.c(8,4): warning C4047: “=”:“char *”与“int”的间接级别不同
+D:\C_test\20231028_xuexi_2\20231028_xuexi_2\main.c(7,8): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  20231028_xuexi_2.vcxproj -> D:\C_test\20231028_xuexi_2\x64\Debug\20231028_xuexi_2.exe

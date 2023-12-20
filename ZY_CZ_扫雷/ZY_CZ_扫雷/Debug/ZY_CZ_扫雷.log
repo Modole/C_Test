@@ -1,0 +1,3 @@
+﻿  n3.c
+D:\C_test\ZY_CZ_扫雷\ZY_CZ_扫雷\n3.c(106,21): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+  ZY_CZ_扫雷.vcxproj -> D:\C_test\ZY_CZ_扫雷\Debug\ZY_CZ_扫雷.exe
